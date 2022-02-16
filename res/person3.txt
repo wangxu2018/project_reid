@@ -1,0 +1,17 @@
+person:person3
+frame:1:cam:cam2:path:./camera/cam2/1_1.jpg
+frame:2:cam:cam2:path:./camera/cam2/2_1.jpg
+frame:3:cam:cam7:path:./camera/cam7/3_1.jpg
+frame:4:cam:cam7:path:./camera/cam7/4_1.jpg
+frame:5:cam:cam2:path:./camera/cam2/5_1.jpg
+frame:6:cam:cam4:path:./camera/cam4/6_1.jpg
+frame:7:cam:cam4:path:./camera/cam4/7_1.jpg
+frame:8:cam:cam1:path:./camera/cam1/8_1.jpg
+frame:9:cam:cam1:path:./camera/cam1/9_1.jpg
+frame:10:cam:cam1:path:./camera/cam1/10_1.jpg
+frame:11:cam:cam3:path:./camera/cam3/11_1.jpg
+frame:12:cam:cam3:path:./camera/cam3/12_1.jpg
+frame:13:cam:cam3:path:./camera/cam3/13_1.jpg
+frame:14:cam:NotFind:path:null
+frame:15:cam:cam3:path:./camera/cam3/15_1.jpg
+frame:16:cam:NotFind:path:null
